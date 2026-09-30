@@ -1,0 +1,4002 @@
+[
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260822_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260822",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.08.2026",
+    "file_todate": "22.08.2026",
+    "file_published": "23.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260821_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260821",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.08.2026",
+    "file_todate": "21.08.2026",
+    "file_published": "22.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260820_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260820",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.08.2026",
+    "file_todate": "20.08.2026",
+    "file_published": "21.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260819_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260819",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.08.2026",
+    "file_todate": "19.08.2026",
+    "file_published": "20.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260818_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260818",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.08.2026",
+    "file_todate": "18.08.2026",
+    "file_published": "19.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260817_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260817",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.08.2026",
+    "file_todate": "17.08.2026",
+    "file_published": "18.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260816_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260816",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.08.2026",
+    "file_todate": "16.08.2026",
+    "file_published": "17.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260815_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260815",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.08.2026",
+    "file_todate": "15.08.2026",
+    "file_published": "16.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260814_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260814",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.08.2026",
+    "file_todate": "14.08.2026",
+    "file_published": "15.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260813_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260813",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.08.2026",
+    "file_todate": "13.08.2026",
+    "file_published": "14.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260812_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260812",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.08.2026",
+    "file_todate": "12.08.2026",
+    "file_published": "13.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260811_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260811",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.08.2026",
+    "file_todate": "11.08.2026",
+    "file_published": "12.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260810_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260810",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.08.2026",
+    "file_todate": "10.08.2026",
+    "file_published": "11.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260809_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260809",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.08.2026",
+    "file_todate": "09.08.2026",
+    "file_published": "10.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260808_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260808",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.08.2026",
+    "file_todate": "08.08.2026",
+    "file_published": "09.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260807_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260807",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.08.2026",
+    "file_todate": "07.08.2026",
+    "file_published": "08.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260806_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260806",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.08.2026",
+    "file_todate": "06.08.2026",
+    "file_published": "07.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260805_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260805",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.08.2026",
+    "file_todate": "05.08.2026",
+    "file_published": "06.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260804_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260804",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.08.2026",
+    "file_todate": "04.08.2026",
+    "file_published": "05.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260803_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260803",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.08.2026",
+    "file_todate": "03.08.2026",
+    "file_published": "04.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260802_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260802",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.08.2026",
+    "file_todate": "02.08.2026",
+    "file_published": "03.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260801_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260801",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.08.2026",
+    "file_todate": "01.08.2026",
+    "file_published": "02.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/08/20260731_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260731",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.07.2026",
+    "file_todate": "31.07.2026",
+    "file_published": "01.08.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260730_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260730",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.07.2026",
+    "file_todate": "30.07.2026",
+    "file_published": "31.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260729_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260729",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.07.2026",
+    "file_todate": "29.07.2026",
+    "file_published": "30.07.2026 10:16"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260728_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260728",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.07.2026",
+    "file_todate": "28.07.2026",
+    "file_published": "29.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260727_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260727",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.07.2026",
+    "file_todate": "27.07.2026",
+    "file_published": "28.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260726_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260726",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.07.2026",
+    "file_todate": "26.07.2026",
+    "file_published": "27.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260725_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260725",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.07.2026",
+    "file_todate": "25.07.2026",
+    "file_published": "26.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260724_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260724",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.07.2026",
+    "file_todate": "24.07.2026",
+    "file_published": "25.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260723_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260723",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.07.2026",
+    "file_todate": "23.07.2026",
+    "file_published": "24.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260722_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260722",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.07.2026",
+    "file_todate": "22.07.2026",
+    "file_published": "23.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260721_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260721",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.07.2026",
+    "file_todate": "21.07.2026",
+    "file_published": "22.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260720_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260720",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.07.2026",
+    "file_todate": "20.07.2026",
+    "file_published": "21.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260719_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260719",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.07.2026",
+    "file_todate": "19.07.2026",
+    "file_published": "20.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260718_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260718",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.07.2026",
+    "file_todate": "18.07.2026",
+    "file_published": "19.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260717_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260717",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.07.2026",
+    "file_todate": "17.07.2026",
+    "file_published": "18.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260716_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260716",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.07.2026",
+    "file_todate": "16.07.2026",
+    "file_published": "17.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260715_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260715",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.07.2026",
+    "file_todate": "15.07.2026",
+    "file_published": "16.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260714_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260714",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.07.2026",
+    "file_todate": "14.07.2026",
+    "file_published": "15.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260713_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260713",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.07.2026",
+    "file_todate": "13.07.2026",
+    "file_published": "14.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260712_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260712",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.07.2026",
+    "file_todate": "12.07.2026",
+    "file_published": "13.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260711_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260711",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.07.2026",
+    "file_todate": "11.07.2026",
+    "file_published": "12.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260710_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260710",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.07.2026",
+    "file_todate": "10.07.2026",
+    "file_published": "11.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260709_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260709",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.07.2026",
+    "file_todate": "09.07.2026",
+    "file_published": "10.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260708_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260708",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.07.2026",
+    "file_todate": "08.07.2026",
+    "file_published": "09.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260707_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260707",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.07.2026",
+    "file_todate": "07.07.2026",
+    "file_published": "08.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260706_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260706",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.07.2026",
+    "file_todate": "06.07.2026",
+    "file_published": "07.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260705_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260705",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.07.2026",
+    "file_todate": "05.07.2026",
+    "file_published": "06.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260704_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260704",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.07.2026",
+    "file_todate": "04.07.2026",
+    "file_published": "05.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260703_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260703",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.07.2026",
+    "file_todate": "03.07.2026",
+    "file_published": "04.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260702_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260702",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.07.2026",
+    "file_todate": "02.07.2026",
+    "file_published": "03.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260701_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260701",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.07.2026",
+    "file_todate": "01.07.2026",
+    "file_published": "02.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/07/20260630_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260630",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.06.2026",
+    "file_todate": "30.06.2026",
+    "file_published": "01.07.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260629_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260629",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.06.2026",
+    "file_todate": "29.06.2026",
+    "file_published": "30.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260628_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260628",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.06.2026",
+    "file_todate": "28.06.2026",
+    "file_published": "29.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260627_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260627",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.06.2026",
+    "file_todate": "27.06.2026",
+    "file_published": "28.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260626_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260626",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.06.2026",
+    "file_todate": "26.06.2026",
+    "file_published": "27.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260625_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260625",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.06.2026",
+    "file_todate": "25.06.2026",
+    "file_published": "26.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260624_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260624",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.06.2026",
+    "file_todate": "24.06.2026",
+    "file_published": "25.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260623_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260623",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.06.2026",
+    "file_todate": "23.06.2026",
+    "file_published": "24.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260622_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260622",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.06.2026",
+    "file_todate": "22.06.2026",
+    "file_published": "23.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260621_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260621",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.06.2026",
+    "file_todate": "21.06.2026",
+    "file_published": "22.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260620_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260620",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.06.2026",
+    "file_todate": "20.06.2026",
+    "file_published": "21.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260619_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260619",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.06.2026",
+    "file_todate": "19.06.2026",
+    "file_published": "20.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260618_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260618",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.06.2026",
+    "file_todate": "18.06.2026",
+    "file_published": "19.06.2026 18:06"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260617_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260617",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.06.2026",
+    "file_todate": "17.06.2026",
+    "file_published": "18.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260616_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260616",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.06.2026",
+    "file_todate": "16.06.2026",
+    "file_published": "17.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260615_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260615",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.06.2026",
+    "file_todate": "15.06.2026",
+    "file_published": "16.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260614_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260614",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.06.2026",
+    "file_todate": "14.06.2026",
+    "file_published": "15.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260613_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260613",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.06.2026",
+    "file_todate": "13.06.2026",
+    "file_published": "14.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260612_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260612",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.06.2026",
+    "file_todate": "12.06.2026",
+    "file_published": "13.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260611_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260611",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.06.2026",
+    "file_todate": "11.06.2026",
+    "file_published": "12.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260610_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260610",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.06.2026",
+    "file_todate": "10.06.2026",
+    "file_published": "11.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260609_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260609",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.06.2026",
+    "file_todate": "09.06.2026",
+    "file_published": "10.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260608_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260608",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.06.2026",
+    "file_todate": "08.06.2026",
+    "file_published": "09.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260607_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260607",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.06.2026",
+    "file_todate": "07.06.2026",
+    "file_published": "08.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260606_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260606",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.06.2026",
+    "file_todate": "06.06.2026",
+    "file_published": "07.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260605_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260605",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.06.2026",
+    "file_todate": "05.06.2026",
+    "file_published": "06.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260604_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260604",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.06.2026",
+    "file_todate": "04.06.2026",
+    "file_published": "05.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260603_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260603",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.06.2026",
+    "file_todate": "03.06.2026",
+    "file_published": "04.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260602_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260602",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.06.2026",
+    "file_todate": "02.06.2026",
+    "file_published": "03.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260601_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260601",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.06.2026",
+    "file_todate": "01.06.2026",
+    "file_published": "02.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/06/20260531_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260531",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.05.2026",
+    "file_todate": "31.05.2026",
+    "file_published": "01.06.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260530_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260530",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.05.2026",
+    "file_todate": "30.05.2026",
+    "file_published": "31.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260529_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260529",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.05.2026",
+    "file_todate": "29.05.2026",
+    "file_published": "30.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260528_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260528",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.05.2026",
+    "file_todate": "28.05.2026",
+    "file_published": "29.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260527_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260527",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.05.2026",
+    "file_todate": "27.05.2026",
+    "file_published": "28.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260526_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260526",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.05.2026",
+    "file_todate": "26.05.2026",
+    "file_published": "27.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260525_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260525",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.05.2026",
+    "file_todate": "25.05.2026",
+    "file_published": "26.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260524_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260524",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.05.2026",
+    "file_todate": "24.05.2026",
+    "file_published": "25.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260523_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260523",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.05.2026",
+    "file_todate": "23.05.2026",
+    "file_published": "24.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260522_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260522",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.05.2026",
+    "file_todate": "22.05.2026",
+    "file_published": "23.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260521_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260521",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.05.2026",
+    "file_todate": "21.05.2026",
+    "file_published": "22.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260520_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260520",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.05.2026",
+    "file_todate": "20.05.2026",
+    "file_published": "21.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260519_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260519",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.05.2026",
+    "file_todate": "19.05.2026",
+    "file_published": "20.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260518_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260518",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.05.2026",
+    "file_todate": "18.05.2026",
+    "file_published": "19.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260517_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260517",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.05.2026",
+    "file_todate": "17.05.2026",
+    "file_published": "18.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260516_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260516",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.05.2026",
+    "file_todate": "16.05.2026",
+    "file_published": "17.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260515_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260515",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.05.2026",
+    "file_todate": "15.05.2026",
+    "file_published": "16.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260514_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260514",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.05.2026",
+    "file_todate": "14.05.2026",
+    "file_published": "15.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260513_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260513",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.05.2026",
+    "file_todate": "13.05.2026",
+    "file_published": "14.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260512_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260512",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.05.2026",
+    "file_todate": "12.05.2026",
+    "file_published": "13.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260511_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260511",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.05.2026",
+    "file_todate": "11.05.2026",
+    "file_published": "12.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260510_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260510",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.05.2026",
+    "file_todate": "10.05.2026",
+    "file_published": "11.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260509_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260509",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.05.2026",
+    "file_todate": "09.05.2026",
+    "file_published": "10.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260508_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260508",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.05.2026",
+    "file_todate": "08.05.2026",
+    "file_published": "09.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260507_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260507",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.05.2026",
+    "file_todate": "07.05.2026",
+    "file_published": "08.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260506_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260506",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.05.2026",
+    "file_todate": "06.05.2026",
+    "file_published": "07.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260505_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260505",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.05.2026",
+    "file_todate": "05.05.2026",
+    "file_published": "06.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260504_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260504",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.05.2026",
+    "file_todate": "04.05.2026",
+    "file_published": "05.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260503_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260503",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.05.2026",
+    "file_todate": "03.05.2026",
+    "file_published": "04.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260502_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260502",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.05.2026",
+    "file_todate": "02.05.2026",
+    "file_published": "03.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260501_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260501",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.05.2026",
+    "file_todate": "01.05.2026",
+    "file_published": "02.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/05/20260430_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260430",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.04.2026",
+    "file_todate": "30.04.2026",
+    "file_published": "01.05.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260429_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260429",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.04.2026",
+    "file_todate": "29.04.2026",
+    "file_published": "30.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260428_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260428",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.04.2026",
+    "file_todate": "28.04.2026",
+    "file_published": "29.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260427_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260427",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.04.2026",
+    "file_todate": "27.04.2026",
+    "file_published": "28.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260426_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260426",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.04.2026",
+    "file_todate": "26.04.2026",
+    "file_published": "27.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260425_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260425",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.04.2026",
+    "file_todate": "25.04.2026",
+    "file_published": "26.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260424_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260424",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.04.2026",
+    "file_todate": "24.04.2026",
+    "file_published": "25.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260423_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260423",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.04.2026",
+    "file_todate": "23.04.2026",
+    "file_published": "24.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260422_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260422",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.04.2026",
+    "file_todate": "22.04.2026",
+    "file_published": "23.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260421_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260421",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.04.2026",
+    "file_todate": "21.04.2026",
+    "file_published": "22.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260420_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260420",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.04.2026",
+    "file_todate": "20.04.2026",
+    "file_published": "21.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260419_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260419",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.04.2026",
+    "file_todate": "19.04.2026",
+    "file_published": "20.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260418_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260418",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.04.2026",
+    "file_todate": "18.04.2026",
+    "file_published": "19.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260417_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260417",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.04.2026",
+    "file_todate": "17.04.2026",
+    "file_published": "18.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260416_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260416",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.04.2026",
+    "file_todate": "16.04.2026",
+    "file_published": "17.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260415_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260415",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.04.2026",
+    "file_todate": "15.04.2026",
+    "file_published": "16.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260414_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260414",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.04.2026",
+    "file_todate": "14.04.2026",
+    "file_published": "15.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260413_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260413",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.04.2026",
+    "file_todate": "13.04.2026",
+    "file_published": "14.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260412_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260412",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.04.2026",
+    "file_todate": "12.04.2026",
+    "file_published": "13.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260411_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260411",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.04.2026",
+    "file_todate": "11.04.2026",
+    "file_published": "12.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260410_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260410",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.04.2026",
+    "file_todate": "10.04.2026",
+    "file_published": "11.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260409_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260409",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.04.2026",
+    "file_todate": "09.04.2026",
+    "file_published": "10.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260408_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260408",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.04.2026",
+    "file_todate": "08.04.2026",
+    "file_published": "09.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260407_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260407",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.04.2026",
+    "file_todate": "07.04.2026",
+    "file_published": "08.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260406_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260406",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.04.2026",
+    "file_todate": "06.04.2026",
+    "file_published": "07.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260405_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260405",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.04.2026",
+    "file_todate": "05.04.2026",
+    "file_published": "06.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260404_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260404",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.04.2026",
+    "file_todate": "04.04.2026",
+    "file_published": "05.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260403_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260403",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.04.2026",
+    "file_todate": "03.04.2026",
+    "file_published": "04.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260402_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260402",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.04.2026",
+    "file_todate": "02.04.2026",
+    "file_published": "03.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260401_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260401",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.04.2026",
+    "file_todate": "01.04.2026",
+    "file_published": "02.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/04/20260331_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260331",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.03.2026",
+    "file_todate": "31.03.2026",
+    "file_published": "01.04.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260330_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260330",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.03.2026",
+    "file_todate": "30.03.2026",
+    "file_published": "31.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260329_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260329",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.03.2026",
+    "file_todate": "29.03.2026",
+    "file_published": "30.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260328_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260328",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.03.2026",
+    "file_todate": "28.03.2026",
+    "file_published": "29.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260327_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260327",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.03.2026",
+    "file_todate": "27.03.2026",
+    "file_published": "28.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260326_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260326",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.03.2026",
+    "file_todate": "26.03.2026",
+    "file_published": "27.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260325_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260325",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.03.2026",
+    "file_todate": "25.03.2026",
+    "file_published": "26.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260324_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260324",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.03.2026",
+    "file_todate": "24.03.2026",
+    "file_published": "25.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260323_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260323",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.03.2026",
+    "file_todate": "23.03.2026",
+    "file_published": "24.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260322_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260322",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.03.2026",
+    "file_todate": "22.03.2026",
+    "file_published": "23.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260321_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260321",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.03.2026",
+    "file_todate": "21.03.2026",
+    "file_published": "22.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260320_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260320",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.03.2026",
+    "file_todate": "20.03.2026",
+    "file_published": "21.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260319_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260319",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.03.2026",
+    "file_todate": "19.03.2026",
+    "file_published": "20.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260318_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260318",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.03.2026",
+    "file_todate": "18.03.2026",
+    "file_published": "19.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260317_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260317",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.03.2026",
+    "file_todate": "17.03.2026",
+    "file_published": "18.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260316_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260316",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.03.2026",
+    "file_todate": "16.03.2026",
+    "file_published": "17.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260315_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260315",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.03.2026",
+    "file_todate": "15.03.2026",
+    "file_published": "16.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260314_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260314",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.03.2026",
+    "file_todate": "14.03.2026",
+    "file_published": "15.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260313_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260313",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.03.2026",
+    "file_todate": "13.03.2026",
+    "file_published": "14.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260312_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260312",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.03.2026",
+    "file_todate": "12.03.2026",
+    "file_published": "13.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260311_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260311",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.03.2026",
+    "file_todate": "11.03.2026",
+    "file_published": "12.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260310_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260310",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.03.2026",
+    "file_todate": "10.03.2026",
+    "file_published": "11.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260309_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260309",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.03.2026",
+    "file_todate": "09.03.2026",
+    "file_published": "10.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260308_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260308",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.03.2026",
+    "file_todate": "08.03.2026",
+    "file_published": "09.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260307_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260307",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.03.2026",
+    "file_todate": "07.03.2026",
+    "file_published": "08.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260306_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260306",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.03.2026",
+    "file_todate": "06.03.2026",
+    "file_published": "07.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260305_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260305",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.03.2026",
+    "file_todate": "05.03.2026",
+    "file_published": "06.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260304_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260304",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.03.2026",
+    "file_todate": "04.03.2026",
+    "file_published": "05.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260303_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260303",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.03.2026",
+    "file_todate": "03.03.2026",
+    "file_published": "04.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260302_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260302",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.03.2026",
+    "file_todate": "02.03.2026",
+    "file_published": "03.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260301_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260301",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.03.2026",
+    "file_todate": "01.03.2026",
+    "file_published": "02.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/03/20260228_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260228",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.02.2026",
+    "file_todate": "28.02.2026",
+    "file_published": "01.03.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260227_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260227",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.02.2026",
+    "file_todate": "27.02.2026",
+    "file_published": "28.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260226_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260226",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.02.2026",
+    "file_todate": "26.02.2026",
+    "file_published": "27.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260225_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260225",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.02.2026",
+    "file_todate": "25.02.2026",
+    "file_published": "26.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260224_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260224",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.02.2026",
+    "file_todate": "24.02.2026",
+    "file_published": "25.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260223_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260223",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.02.2026",
+    "file_todate": "23.02.2026",
+    "file_published": "24.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260222_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260222",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.02.2026",
+    "file_todate": "22.02.2026",
+    "file_published": "23.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260221_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260221",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.02.2026",
+    "file_todate": "21.02.2026",
+    "file_published": "22.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260220_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260220",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.02.2026",
+    "file_todate": "20.02.2026",
+    "file_published": "21.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260219_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260219",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.02.2026",
+    "file_todate": "19.02.2026",
+    "file_published": "20.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260218_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260218",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.02.2026",
+    "file_todate": "18.02.2026",
+    "file_published": "19.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260217_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260217",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.02.2026",
+    "file_todate": "17.02.2026",
+    "file_published": "18.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260216_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260216",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.02.2026",
+    "file_todate": "16.02.2026",
+    "file_published": "17.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260215_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260215",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.02.2026",
+    "file_todate": "15.02.2026",
+    "file_published": "16.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260214_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260214",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.02.2026",
+    "file_todate": "14.02.2026",
+    "file_published": "15.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260213_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260213",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.02.2026",
+    "file_todate": "13.02.2026",
+    "file_published": "14.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260212_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260212",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.02.2026",
+    "file_todate": "12.02.2026",
+    "file_published": "13.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260211_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260211",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.02.2026",
+    "file_todate": "11.02.2026",
+    "file_published": "12.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260210_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260210",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.02.2026",
+    "file_todate": "10.02.2026",
+    "file_published": "11.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260209_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260209",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.02.2026",
+    "file_todate": "09.02.2026",
+    "file_published": "10.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260208_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260208",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.02.2026",
+    "file_todate": "08.02.2026",
+    "file_published": "09.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260207_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260207",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.02.2026",
+    "file_todate": "07.02.2026",
+    "file_published": "08.02.2026 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260206_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260206",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.02.2026",
+    "file_todate": "06.02.2026",
+    "file_published": "07.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260205_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260205",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.02.2026",
+    "file_todate": "05.02.2026",
+    "file_published": "06.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260204_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260204",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.02.2026",
+    "file_todate": "04.02.2026",
+    "file_published": "05.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260203_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260203",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.02.2026",
+    "file_todate": "03.02.2026",
+    "file_published": "04.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260202_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260202",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.02.2026",
+    "file_todate": "02.02.2026",
+    "file_published": "03.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260201_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260201",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.02.2026",
+    "file_todate": "01.02.2026",
+    "file_published": "02.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/02/20260131_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260131",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.01.2026",
+    "file_todate": "31.01.2026",
+    "file_published": "01.02.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260130_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260130",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.01.2026",
+    "file_todate": "30.01.2026",
+    "file_published": "31.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260129_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260129",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.01.2026",
+    "file_todate": "29.01.2026",
+    "file_published": "30.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260128_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260128",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.01.2026",
+    "file_todate": "28.01.2026",
+    "file_published": "29.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260127_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260127",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.01.2026",
+    "file_todate": "27.01.2026",
+    "file_published": "28.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260126_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260126",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.01.2026",
+    "file_todate": "26.01.2026",
+    "file_published": "27.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260125_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260125",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.01.2026",
+    "file_todate": "25.01.2026",
+    "file_published": "26.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260124_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260124",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.01.2026",
+    "file_todate": "24.01.2026",
+    "file_published": "25.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260123_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260123",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.01.2026",
+    "file_todate": "23.01.2026",
+    "file_published": "24.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260122_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260122",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.01.2026",
+    "file_todate": "22.01.2026",
+    "file_published": "23.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260121_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260121",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.01.2026",
+    "file_todate": "21.01.2026",
+    "file_published": "22.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260120_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260120",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.01.2026",
+    "file_todate": "20.01.2026",
+    "file_published": "21.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260119_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260119",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.01.2026",
+    "file_todate": "19.01.2026",
+    "file_published": "20.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260118_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260118",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.01.2026",
+    "file_todate": "18.01.2026",
+    "file_published": "19.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260117_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260117",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.01.2026",
+    "file_todate": "17.01.2026",
+    "file_published": "18.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260116_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260116",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.01.2026",
+    "file_todate": "16.01.2026",
+    "file_published": "17.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260115_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260115",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.01.2026",
+    "file_todate": "15.01.2026",
+    "file_published": "16.01.2026 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260114_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260114",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.01.2026",
+    "file_todate": "14.01.2026",
+    "file_published": "15.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260113_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260113",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.01.2026",
+    "file_todate": "13.01.2026",
+    "file_published": "14.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260112_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260112",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.01.2026",
+    "file_todate": "12.01.2026",
+    "file_published": "29.01.2026 10:06"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260111_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260111",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.01.2026",
+    "file_todate": "11.01.2026",
+    "file_published": "12.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260110_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260110",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.01.2026",
+    "file_todate": "10.01.2026",
+    "file_published": "11.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260109_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260109",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.01.2026",
+    "file_todate": "09.01.2026",
+    "file_published": "10.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260108_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260108",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.01.2026",
+    "file_todate": "08.01.2026",
+    "file_published": "09.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260107_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260107",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.01.2026",
+    "file_todate": "07.01.2026",
+    "file_published": "08.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260106_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260106",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.01.2026",
+    "file_todate": "06.01.2026",
+    "file_published": "07.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260105_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260105",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.01.2026",
+    "file_todate": "05.01.2026",
+    "file_published": "06.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260104_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260104",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.01.2026",
+    "file_todate": "04.01.2026",
+    "file_published": "05.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260103_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260103",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.01.2026",
+    "file_todate": "03.01.2026",
+    "file_published": "04.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260102_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260102",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.01.2026",
+    "file_todate": "02.01.2026",
+    "file_published": "03.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20260101_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20260101",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.01.2026",
+    "file_todate": "01.01.2026",
+    "file_published": "02.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2026/01/20251231_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251231",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.12.2025",
+    "file_todate": "31.12.2025",
+    "file_published": "01.01.2026 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251230_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251230",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.12.2025",
+    "file_todate": "30.12.2025",
+    "file_published": "31.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251229_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251229",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.12.2025",
+    "file_todate": "29.12.2025",
+    "file_published": "30.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251228_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251228",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.12.2025",
+    "file_todate": "28.12.2025",
+    "file_published": "29.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251227_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251227",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.12.2025",
+    "file_todate": "27.12.2025",
+    "file_published": "28.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251226_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251226",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.12.2025",
+    "file_todate": "26.12.2025",
+    "file_published": "27.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251225_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251225",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.12.2025",
+    "file_todate": "25.12.2025",
+    "file_published": "26.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251224_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251224",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.12.2025",
+    "file_todate": "24.12.2025",
+    "file_published": "25.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251223_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251223",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.12.2025",
+    "file_todate": "23.12.2025",
+    "file_published": "24.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251222_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251222",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.12.2025",
+    "file_todate": "22.12.2025",
+    "file_published": "23.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251221_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251221",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.12.2025",
+    "file_todate": "21.12.2025",
+    "file_published": "22.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251220_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251220",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.12.2025",
+    "file_todate": "20.12.2025",
+    "file_published": "21.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251219_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251219",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.12.2025",
+    "file_todate": "19.12.2025",
+    "file_published": "20.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251218_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251218",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.12.2025",
+    "file_todate": "18.12.2025",
+    "file_published": "19.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251217_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251217",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.12.2025",
+    "file_todate": "17.12.2025",
+    "file_published": "18.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251216_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251216",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.12.2025",
+    "file_todate": "16.12.2025",
+    "file_published": "17.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251215_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251215",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.12.2025",
+    "file_todate": "15.12.2025",
+    "file_published": "16.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251214_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251214",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.12.2025",
+    "file_todate": "14.12.2025",
+    "file_published": "15.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251213_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251213",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.12.2025",
+    "file_todate": "13.12.2025",
+    "file_published": "14.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251212_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251212",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.12.2025",
+    "file_todate": "12.12.2025",
+    "file_published": "13.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251211_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251211",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.12.2025",
+    "file_todate": "11.12.2025",
+    "file_published": "12.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251210_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251210",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.12.2025",
+    "file_todate": "10.12.2025",
+    "file_published": "11.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251209_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251209",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.12.2025",
+    "file_todate": "09.12.2025",
+    "file_published": "10.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251208_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251208",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.12.2025",
+    "file_todate": "08.12.2025",
+    "file_published": "09.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251207_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251207",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.12.2025",
+    "file_todate": "07.12.2025",
+    "file_published": "08.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251206_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251206",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.12.2025",
+    "file_todate": "06.12.2025",
+    "file_published": "07.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251205_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251205",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.12.2025",
+    "file_todate": "05.12.2025",
+    "file_published": "06.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251202_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251202",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.12.2025",
+    "file_todate": "02.12.2025",
+    "file_published": "05.12.2025 15:42"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251204_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251204",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.12.2025",
+    "file_todate": "04.12.2025",
+    "file_published": "05.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251203_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251203",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.12.2025",
+    "file_todate": "03.12.2025",
+    "file_published": "04.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251201_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251201",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.12.2025",
+    "file_todate": "01.12.2025",
+    "file_published": "02.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/12/20251130_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251130",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.11.2025",
+    "file_todate": "30.11.2025",
+    "file_published": "01.12.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251129_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251129",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.11.2025",
+    "file_todate": "29.11.2025",
+    "file_published": "30.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251128_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251128",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.11.2025",
+    "file_todate": "28.11.2025",
+    "file_published": "29.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251127_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251127",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.11.2025",
+    "file_todate": "27.11.2025",
+    "file_published": "28.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251126_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251126",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.11.2025",
+    "file_todate": "26.11.2025",
+    "file_published": "27.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251125_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251125",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.11.2025",
+    "file_todate": "25.11.2025",
+    "file_published": "26.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251124_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251124",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.11.2025",
+    "file_todate": "24.11.2025",
+    "file_published": "25.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251123_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251123",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.11.2025",
+    "file_todate": "23.11.2025",
+    "file_published": "24.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251121_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251121",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.11.2025",
+    "file_todate": "21.11.2025",
+    "file_published": "23.11.2025 14:00"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251122_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251122",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.11.2025",
+    "file_todate": "22.11.2025",
+    "file_published": "23.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251120_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251120",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.11.2025",
+    "file_todate": "20.11.2025",
+    "file_published": "21.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251119_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251119",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.11.2025",
+    "file_todate": "19.11.2025",
+    "file_published": "20.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251118_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251118",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.11.2025",
+    "file_todate": "18.11.2025",
+    "file_published": "19.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251117_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251117",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.11.2025",
+    "file_todate": "17.11.2025",
+    "file_published": "18.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251116_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251116",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.11.2025",
+    "file_todate": "16.11.2025",
+    "file_published": "17.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251115_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251115",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.11.2025",
+    "file_todate": "15.11.2025",
+    "file_published": "16.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251114_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251114",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.11.2025",
+    "file_todate": "14.11.2025",
+    "file_published": "15.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251113_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251113",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.11.2025",
+    "file_todate": "13.11.2025",
+    "file_published": "14.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251112_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251112",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.11.2025",
+    "file_todate": "12.11.2025",
+    "file_published": "13.11.2025 12:47"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251111_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251111",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.11.2025",
+    "file_todate": "11.11.2025",
+    "file_published": "12.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251110_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251110",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.11.2025",
+    "file_todate": "10.11.2025",
+    "file_published": "11.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251109_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251109",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.11.2025",
+    "file_todate": "09.11.2025",
+    "file_published": "10.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251108_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251108",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.11.2025",
+    "file_todate": "08.11.2025",
+    "file_published": "09.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251107_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251107",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.11.2025",
+    "file_todate": "07.11.2025",
+    "file_published": "08.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251106_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251106",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.11.2025",
+    "file_todate": "06.11.2025",
+    "file_published": "07.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251105_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251105",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.11.2025",
+    "file_todate": "05.11.2025",
+    "file_published": "06.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251104_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251104",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.11.2025",
+    "file_todate": "04.11.2025",
+    "file_published": "05.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251103_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251103",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.11.2025",
+    "file_todate": "03.11.2025",
+    "file_published": "04.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251102_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251102",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.11.2025",
+    "file_todate": "02.11.2025",
+    "file_published": "03.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251101_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251101",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.11.2025",
+    "file_todate": "01.11.2025",
+    "file_published": "02.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/11/20251031_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251031",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.10.2025",
+    "file_todate": "31.10.2025",
+    "file_published": "01.11.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251030_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251030",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.10.2025",
+    "file_todate": "30.10.2025",
+    "file_published": "31.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251029_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251029",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.10.2025",
+    "file_todate": "29.10.2025",
+    "file_published": "30.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251028_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251028",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.10.2025",
+    "file_todate": "28.10.2025",
+    "file_published": "29.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251027_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251027",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.10.2025",
+    "file_todate": "27.10.2025",
+    "file_published": "28.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251026_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251026",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.10.2025",
+    "file_todate": "26.10.2025",
+    "file_published": "27.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251025_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251025",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.10.2025",
+    "file_todate": "25.10.2025",
+    "file_published": "26.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251024_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251024",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.10.2025",
+    "file_todate": "24.10.2025",
+    "file_published": "25.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251023_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251023",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.10.2025",
+    "file_todate": "23.10.2025",
+    "file_published": "24.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251022_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251022",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.10.2025",
+    "file_todate": "22.10.2025",
+    "file_published": "23.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251021_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251021",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.10.2025",
+    "file_todate": "21.10.2025",
+    "file_published": "22.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251020_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251020",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.10.2025",
+    "file_todate": "20.10.2025",
+    "file_published": "21.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251019_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251019",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.10.2025",
+    "file_todate": "19.10.2025",
+    "file_published": "20.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251018_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251018",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.10.2025",
+    "file_todate": "18.10.2025",
+    "file_published": "19.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251017_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251017",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.10.2025",
+    "file_todate": "17.10.2025",
+    "file_published": "18.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251016_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251016",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.10.2025",
+    "file_todate": "16.10.2025",
+    "file_published": "17.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251015_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251015",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.10.2025",
+    "file_todate": "15.10.2025",
+    "file_published": "16.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251014_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251014",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.10.2025",
+    "file_todate": "14.10.2025",
+    "file_published": "15.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251013_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251013",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.10.2025",
+    "file_todate": "13.10.2025",
+    "file_published": "14.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251012_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251012",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.10.2025",
+    "file_todate": "12.10.2025",
+    "file_published": "13.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251011_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251011",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.10.2025",
+    "file_todate": "11.10.2025",
+    "file_published": "12.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251010_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251010",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.10.2025",
+    "file_todate": "10.10.2025",
+    "file_published": "11.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251009_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251009",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.10.2025",
+    "file_todate": "09.10.2025",
+    "file_published": "10.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251008_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251008",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.10.2025",
+    "file_todate": "08.10.2025",
+    "file_published": "09.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251007_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251007",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.10.2025",
+    "file_todate": "07.10.2025",
+    "file_published": "08.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251006_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251006",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.10.2025",
+    "file_todate": "06.10.2025",
+    "file_published": "07.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251005_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251005",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.10.2025",
+    "file_todate": "05.10.2025",
+    "file_published": "06.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251004_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251004",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.10.2025",
+    "file_todate": "04.10.2025",
+    "file_published": "05.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251003_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251003",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.10.2025",
+    "file_todate": "03.10.2025",
+    "file_published": "04.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251002_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251002",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.10.2025",
+    "file_todate": "02.10.2025",
+    "file_published": "03.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20251001_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20251001",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.10.2025",
+    "file_todate": "01.10.2025",
+    "file_published": "02.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/10/20250930_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250930",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.09.2025",
+    "file_todate": "30.09.2025",
+    "file_published": "01.10.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250929_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250929",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.09.2025",
+    "file_todate": "29.09.2025",
+    "file_published": "30.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250928_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250928",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.09.2025",
+    "file_todate": "28.09.2025",
+    "file_published": "29.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250927_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250927",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.09.2025",
+    "file_todate": "27.09.2025",
+    "file_published": "28.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250926_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250926",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.09.2025",
+    "file_todate": "26.09.2025",
+    "file_published": "27.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250925_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250925",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.09.2025",
+    "file_todate": "25.09.2025",
+    "file_published": "26.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250924_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250924",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.09.2025",
+    "file_todate": "24.09.2025",
+    "file_published": "25.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250923_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250923",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.09.2025",
+    "file_todate": "23.09.2025",
+    "file_published": "24.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250922_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250922",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.09.2025",
+    "file_todate": "22.09.2025",
+    "file_published": "23.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250921_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250921",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.09.2025",
+    "file_todate": "21.09.2025",
+    "file_published": "22.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250920_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250920",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.09.2025",
+    "file_todate": "20.09.2025",
+    "file_published": "21.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250919_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250919",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.09.2025",
+    "file_todate": "19.09.2025",
+    "file_published": "20.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250918_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250918",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.09.2025",
+    "file_todate": "18.09.2025",
+    "file_published": "19.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250917_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250917",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.09.2025",
+    "file_todate": "17.09.2025",
+    "file_published": "18.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250916_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250916",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.09.2025",
+    "file_todate": "16.09.2025",
+    "file_published": "17.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250915_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250915",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.09.2025",
+    "file_todate": "15.09.2025",
+    "file_published": "16.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250914_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250914",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.09.2025",
+    "file_todate": "14.09.2025",
+    "file_published": "15.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250913_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250913",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.09.2025",
+    "file_todate": "13.09.2025",
+    "file_published": "14.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250912_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250912",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.09.2025",
+    "file_todate": "12.09.2025",
+    "file_published": "13.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250911_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250911",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.09.2025",
+    "file_todate": "11.09.2025",
+    "file_published": "12.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250910_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250910",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.09.2025",
+    "file_todate": "10.09.2025",
+    "file_published": "11.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250909_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250909",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.09.2025",
+    "file_todate": "09.09.2025",
+    "file_published": "10.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250908_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250908",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.09.2025",
+    "file_todate": "08.09.2025",
+    "file_published": "09.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250907_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250907",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.09.2025",
+    "file_todate": "07.09.2025",
+    "file_published": "08.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250906_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250906",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.09.2025",
+    "file_todate": "06.09.2025",
+    "file_published": "07.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250905_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250905",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.09.2025",
+    "file_todate": "05.09.2025",
+    "file_published": "06.09.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250904_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250904",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.09.2025",
+    "file_todate": "04.09.2025",
+    "file_published": "05.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250903_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250903",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.09.2025",
+    "file_todate": "03.09.2025",
+    "file_published": "04.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250902_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250902",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.09.2025",
+    "file_todate": "02.09.2025",
+    "file_published": "03.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250901_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250901",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.09.2025",
+    "file_todate": "01.09.2025",
+    "file_published": "02.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/09/20250831_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250831",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.08.2025",
+    "file_todate": "31.08.2025",
+    "file_published": "01.09.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250830_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250830",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.08.2025",
+    "file_todate": "30.08.2025",
+    "file_published": "31.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250829_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250829",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.08.2025",
+    "file_todate": "29.08.2025",
+    "file_published": "30.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250828_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250828",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.08.2025",
+    "file_todate": "28.08.2025",
+    "file_published": "29.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250827_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250827",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.08.2025",
+    "file_todate": "27.08.2025",
+    "file_published": "28.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250826_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250826",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.08.2025",
+    "file_todate": "26.08.2025",
+    "file_published": "27.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250825_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250825",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.08.2025",
+    "file_todate": "25.08.2025",
+    "file_published": "26.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250824_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250824",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.08.2025",
+    "file_todate": "24.08.2025",
+    "file_published": "25.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250823_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250823",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.08.2025",
+    "file_todate": "23.08.2025",
+    "file_published": "24.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250822_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250822",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.08.2025",
+    "file_todate": "22.08.2025",
+    "file_published": "23.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250821_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250821",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.08.2025",
+    "file_todate": "21.08.2025",
+    "file_published": "22.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250820_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250820",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.08.2025",
+    "file_todate": "20.08.2025",
+    "file_published": "21.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250819_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250819",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.08.2025",
+    "file_todate": "19.08.2025",
+    "file_published": "20.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250818_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250818",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "18.08.2025",
+    "file_todate": "18.08.2025",
+    "file_published": "19.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250817_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250817",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "17.08.2025",
+    "file_todate": "17.08.2025",
+    "file_published": "18.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250816_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250816",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "16.08.2025",
+    "file_todate": "16.08.2025",
+    "file_published": "17.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250815_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250815",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "15.08.2025",
+    "file_todate": "15.08.2025",
+    "file_published": "16.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250814_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250814",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "14.08.2025",
+    "file_todate": "14.08.2025",
+    "file_published": "15.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250813_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250813",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "13.08.2025",
+    "file_todate": "13.08.2025",
+    "file_published": "14.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250812_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250812",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "12.08.2025",
+    "file_todate": "12.08.2025",
+    "file_published": "13.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250811_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250811",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "11.08.2025",
+    "file_todate": "11.08.2025",
+    "file_published": "12.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250810_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250810",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "10.08.2025",
+    "file_todate": "10.08.2025",
+    "file_published": "11.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250809_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250809",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "09.08.2025",
+    "file_todate": "09.08.2025",
+    "file_published": "10.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250808_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250808",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "08.08.2025",
+    "file_todate": "08.08.2025",
+    "file_published": "09.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250807_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250807",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "07.08.2025",
+    "file_todate": "07.08.2025",
+    "file_published": "08.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250806_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250806",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "06.08.2025",
+    "file_todate": "06.08.2025",
+    "file_published": "07.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250805_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250805",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "05.08.2025",
+    "file_todate": "05.08.2025",
+    "file_published": "06.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250804_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250804",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "04.08.2025",
+    "file_todate": "04.08.2025",
+    "file_published": "05.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250803_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250803",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "03.08.2025",
+    "file_todate": "03.08.2025",
+    "file_published": "04.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250802_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250802",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "02.08.2025",
+    "file_todate": "02.08.2025",
+    "file_published": "03.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250801_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250801",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "01.08.2025",
+    "file_todate": "01.08.2025",
+    "file_published": "02.08.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/08/20250731_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250731",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "31.07.2025",
+    "file_todate": "31.07.2025",
+    "file_published": "01.08.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250730_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250730",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "30.07.2025",
+    "file_todate": "30.07.2025",
+    "file_published": "31.07.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250729_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250729",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "29.07.2025",
+    "file_todate": "29.07.2025",
+    "file_published": "30.07.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250728_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250728",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "28.07.2025",
+    "file_todate": "28.07.2025",
+    "file_published": "29.07.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250727_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250727",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "27.07.2025",
+    "file_todate": "27.07.2025",
+    "file_published": "28.07.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250726_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250726",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "26.07.2025",
+    "file_todate": "26.07.2025",
+    "file_published": "27.07.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250725_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250725",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "25.07.2025",
+    "file_todate": "25.07.2025",
+    "file_published": "26.07.2025 19:07"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250724_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250724",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "24.07.2025",
+    "file_todate": "24.07.2025",
+    "file_published": "25.07.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250723_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250723",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "23.07.2025",
+    "file_todate": "23.07.2025",
+    "file_published": "24.07.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250722_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250722",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "22.07.2025",
+    "file_todate": "22.07.2025",
+    "file_published": "23.07.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250721_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250721",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "21.07.2025",
+    "file_todate": "21.07.2025",
+    "file_published": "22.07.2025 06:05"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250720_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250720",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "20.07.2025",
+    "file_todate": "20.07.2025",
+    "file_published": "21.07.2025 06:10"
+  },
+  {
+    "file_path": "https://www.admie.gr/sites/default/files/attached-files/type-file/2025/07/20250719_RealTimeSCADASystemLoad_01.xls",
+    "file_description": "System Load 20250719",
+    "file_process": "Λειτουργία Συστήματος",
+    "file_datatype": "Φορτίο Συστήματος",
+    "file_coverageperiod": "ΗΜΕΡΑ",
+    "file_fromdate": "19.07.2025",
+    "file_todate": "19.07.2025",
+    "file_published": "20.07.2025 06:10"
+  }
+]
