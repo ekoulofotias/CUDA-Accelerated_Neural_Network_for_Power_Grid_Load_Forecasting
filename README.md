@@ -1,7 +1,9 @@
 # CUDA-Accelerated Neural Network for Power Grid Load Forecasting
 
 **Author:** Stathis Koulofotias
+
 **Date:** August - September 2026
+
 **License:** MIT
 
 ---
