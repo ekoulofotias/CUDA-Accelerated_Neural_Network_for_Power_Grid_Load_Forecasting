@@ -18,7 +18,7 @@ A custom machine learning architecture written in **C and CUDA C**, designed fro
 - **High-speed CPU inference :** Isolated C runtime for low-latency forward pass evaluations, using the winning model's weights.
 - **Full Automation :** Modular compilation, dataset generation, and execution via `Makefile`.
 
-This is an **educational proof-of-concept** demonstrating the fundamental principles of parallel GPU computing and low-level neural network architecture.
+This is an educational proof-of-concept bridging low-level parallel computing with power systems engineering. It aims to demonstrate massive GPU acceleration in neural networks while exploring the fundamental operational principles, load patterns, and structural dynamics that govern an electrical grid.
 
 ---
 
